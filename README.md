@@ -18,7 +18,7 @@ The following analysis draws from a comprehensive dataset sourced from the Nova 
   c.	Organics mt – Total organics collected in metric tonnes
 
 The data cleaning process aimed to resolve several quality issues present in the raw dataset, including inconsistent municipality naming conventions across reporting years, missing and ambiguous values, placeholder rows containing no meaningful data, and formatting inconsistencies in numeric fields.
-Beyond cleaning, the dataset was also processed to derive standardized stream-level metrics for each of the three waste streams — Garbage, Recyclables, and Organics. The four calculated metrics produced for each stream are:
+Beyond cleaning, the dataset was also processed to derive standardized stream-level metrics for each of the three waste streams: Garbage, Recyclables, and Organics. The four calculated metrics produced for each stream are:
 
 1. Collection volume per service unit (mt/unit)
 2. Collection volume per capita (mt/capita)
